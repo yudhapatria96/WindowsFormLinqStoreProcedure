@@ -1,0 +1,12 @@
+Apa kabar semuanya? Semoga diberikan kesehatan selalu.
+
+Saya ingin berbagi pengalaman yang telah saya dapatkan dari bootcamp data science bersama Digital Skola di minggu ke-10.
+
+Pada pertemuan ke 10 ini kita diajarkan tentang apa itu machine learning, bagaimana memproses data seperting missing value, imbalance data dan lain-lain.
+
+Untuk rangkuman materi yang telah dipelajari di minggu ke-10, kami dari team 9Digits dengan beranggotakan mas Ahmad Ari Aldino dan mas Muhammad Wirawansyah membuatkan slide yang mudah untuk dibaca oleh teman-teman.
+
+Terima kasih semuanya semoga bermanfaat.
+
+#DigitalSkola
+#BootcampDataScience
